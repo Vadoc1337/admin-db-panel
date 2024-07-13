@@ -7,7 +7,7 @@ http_response_code(404);
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>404 - Page Not Found</title>
-<link rel="stylesheet" href="css/404.css">
+<link rel="stylesheet" href="/public/css/404.css">
 </head>
 <body>
 <div class="container">
